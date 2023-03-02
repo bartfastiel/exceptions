@@ -13,6 +13,6 @@ class Main {
     }
 
     static String getFlourOutOfFlourSack() {
-        return "Weizenmehl";
+        throw new MausException();
     }
 }
