@@ -1,2 +1,2 @@
-public class MausException extends RuntimeException {
+public class MausException extends Exception {
 }
